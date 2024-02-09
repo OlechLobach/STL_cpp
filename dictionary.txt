@@ -1,0 +1,2 @@
+apple,a round fruit with red or green skin
+banana,a long curved fruit with a yellow skin
